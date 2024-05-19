@@ -1,0 +1,14 @@
+transformers==4.33.3
+datasets==2.14.5
+torchdata==0.6.1
+torch==2.0.1
+streamlit==1.27.0
+openai==0.28.1
+langchain==0.0.304
+unstructured==0.10.16
+sentence-transformers==2.2.2
+chromadb==0.4.13
+evaluate==0.4.0
+rouge_score==0.1.2
+loralib==0.1.1
+peft==0.3.0
